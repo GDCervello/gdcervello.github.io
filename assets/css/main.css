@@ -125,7 +125,7 @@
 			transition: none !important;
 		}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 2680px) {
 
 			body {
 				padding: 4em 3.5em 3.5em 3.5em;
@@ -302,7 +302,7 @@
 		line-height: 1.65em;
 	}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 2680px) {
 
 			body, input, select, textarea {
 				font-size: 12pt;
@@ -1241,7 +1241,9 @@ input[type="submit"],
 			margin-bottom: 0;
 		}
 
-		@media screen and (max-width: 1680px) {
+
+
+		@media screen and (max-width: 2680px) {
 
 			#footer {
 				
@@ -1250,7 +1252,8 @@ input[type="submit"],
 
 		}
 
-		@media screen and (max-width: 736px) {
+
+     		@media screen and (max-width: 736px) {
 
 			#footer {
 				bottom: 1em;
